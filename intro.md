@@ -3,4 +3,7 @@
 **bold** \
 italic _italic_ \
 ~~this is striketrhoug~~ \
-**bold and _italic_**
+**bold and _italic_** \
+
+Text that is not a quote \
+> text that is qoute \
