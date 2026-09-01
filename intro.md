@@ -3,4 +3,4 @@
 **bold** \
 italic _italic_ \
 ~~this is striketrhoug~~ \
-**bold and __italic__**
+**bold and _italic_**
